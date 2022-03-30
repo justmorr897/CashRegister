@@ -296,7 +296,7 @@
             this.newButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.newButton.Font = new System.Drawing.Font("Microsoft YaHei", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.newButton.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.newButton.Location = new System.Drawing.Point(588, 803);
+            this.newButton.Location = new System.Drawing.Point(588, 825);
             this.newButton.Name = "newButton";
             this.newButton.Size = new System.Drawing.Size(222, 52);
             this.newButton.TabIndex = 10;
@@ -384,7 +384,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PaleTurquoise;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1022, 920);
+            this.ClientSize = new System.Drawing.Size(1022, 934);
             this.Controls.Add(this.completionLabel);
             this.Controls.Add(this.orderProgress);
             this.Controls.Add(this.newButton);
